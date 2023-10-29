@@ -1,3 +1,8 @@
 <html>
-  <?php echo "Go away Dave!" ?>
+  <body style="background-color:black">
+    <h1 style="color:Tomato">Say Hi To Dave</h1>
+      <p style="color;Dodgerblue">
+        <?php echo "Lend me five dollars Dave!" ?>
+      </p>
+  </body>
 </html>
